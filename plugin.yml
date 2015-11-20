@@ -1,0 +1,15 @@
+main: xyz.tulipplugins.supplycrate.SupplyCrate
+name: SupplyCrate
+version: 1.0
+author: PresentingTulip
+commands:
+  testdrop:
+    description: Deploys a test chest.
+    permission: supplycrate.testdrop
+  cratedrop:
+    description: Drops a crate.
+    permission: supplycrate.cratedrop
+  scconfig:
+    description: Reloads the Config.
+    permission: supplycrate.scconfig
+    

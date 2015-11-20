@@ -1,0 +1,56 @@
+#Supply Crate Config by PresentingTulip
+#V 1.0
+#The format goes as follows:
+#Example: itema is data value without the colon.
+#itemaq = quantity of itema
+#itemacolon = value after colon. For example, on Item 35:14, you would only put 14.
+#if the item has no colon value, set item(x)colon as 0.
+minuteDelay: 1
+itema: 1
+itemaq: 1
+itemacolon: 0
+itemb: 2
+itembq: 2
+itembcolon: 0
+itemc: 3
+itemcq: 3
+itemcolon: 0
+itemd: 4
+itemdq: 4
+itemdcolon: 0
+iteme: 5
+itemeq: 5
+itemecolon: 0
+itemf: 35
+itemfq: 1
+itemfcolon: 14
+itemg: 6
+itemgq: 6
+itemgcolon: 0
+itemh: 8
+itemhq: 8
+itemhcolon: 0
+itemi: 9
+itemiq: 9 
+itemicolon: 0 
+itemj: 10
+itemjq: 10
+itemjcolon: 0
+itemk: 11
+itemkq: 11
+itemkcolon: 0
+iteml: 12
+itemlq: 12
+itemlcolon: 0
+itemm: 13
+itemmq: 13
+itemmcolon: 0
+itemn: 14
+itemnq: 14
+itemncolon: 0 
+itemo: 15
+itemoq: 15
+itemocolon: 0
+itemp: 16
+itempq: 16
+itempcolon: 0 
